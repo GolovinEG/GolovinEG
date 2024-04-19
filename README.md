@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Education: Master's degree in Information Systems and Technologies
+No work experience
+I'm currently learning Python and Neural Networks. I'd also be interested with getting into gamedev.
+Skiils: problem solving, analytical thinking, C#, Java
+
 <!--
 **GolovinEG/GolovinEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
